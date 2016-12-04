@@ -75,8 +75,6 @@ OB会で使わせてもらった新宿にある水たき専門店である玄海
 また写真を撮影してくれた後輩にも感謝。
 最後に、今回のデリバリーを行ったチームの家族写真もどきを載せてみる。
 
+![_config.yml]({{ site.baseurl }}/image/fullsizeoutput_199a.jpeg)
 
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
 

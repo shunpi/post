@@ -81,6 +81,6 @@ OB会で使わせてもらった新宿にある水たき専門店である玄海
 最後に、今回のデリバリーを行ったチームの家族写真もどきを載せてみる。
 
 
-![teampic]({{ site.baseurl }}/images/jekyll-logo.png)
+![teampic]({{ site.baseurl }}/images/fullsizeoutput_199a.jpeg)
 
 

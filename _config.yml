@@ -9,7 +9,8 @@ name: shunpi
 description: Analytics Consultant @IBM
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://shunpi.github.io/post/images/jfullsizeoutput_125a.jpeg
+avatar: {{ site.baseurl }}/images/jfullsizeoutput_125a.jpeg
+
 
 #
 # Flags below are optional
